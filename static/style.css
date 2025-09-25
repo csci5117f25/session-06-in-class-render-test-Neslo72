@@ -1,3 +1,23 @@
 * {
-    background-color:lightsalmon;
+    background-color: dodgerblue;
+}
+
+body {
+    font-size: large;
+    color: whitesmoke;
+    width: 90%;
+    margin: 0 auto;
+}
+
+legend {
+    font-size: x-large;
+    font-weight: bolder;
+    color: whitesmoke;
+    margin-left: 2.5%;
+}
+
+fieldset {
+    outline: 0.5px solid white;
+    width: 80%;
+    margin-left: 5%;
 }
